@@ -31,4 +31,3 @@ Minimal code example to show how Basil.css works with Svelte.js.
       </div>
     </main>
 ```
-# sveltejs-basilcss-template
