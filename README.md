@@ -15,7 +15,7 @@ Minimal code example to show how Basil.css works with Svelte.js.
         </p>
         <a
           class=" m-b-2 full-width big:w-30"
-          href="https://docs-basilcss.vercel.app/"
+          href="https://basilcss.com"
         >
           <button class="btn-primary m-b-2 full-width big:w-90">
             Try Basil.css
