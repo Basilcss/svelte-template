@@ -2,7 +2,7 @@
 
 Minimal code example to show how Basil.css works with Svelte.js.
 
-### in main.tsx
+### in main.ts
 ```
 import "basilcss/basil.css"
 ```
