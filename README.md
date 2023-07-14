@@ -4,12 +4,12 @@ Minimal code example to show how Basil.css works with Svelte.js.
 
 ### in main.ts
 ```
-import "basilcss/basil.css"
+import "basilcss"
 ```
 
 ### The template
 
-```
+```js
  <main class="row m-2 vh-80 big:vh-100 big:m-0 fade-in">
       <div class="col-8 big:col-4 big:flex-col-right-center">
         <h2 class="m-b-2 big:t-left big:w-70">Basil.css and Svelte.js</h2>
