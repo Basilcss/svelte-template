@@ -14,6 +14,6 @@
     "vite": "^4.3.9"
   },
   "dependencies": {
-    "basilcss": "^1.0.2"
+    "basilcss": "^1.1.13"
   }
 }
